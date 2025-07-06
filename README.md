@@ -45,4 +45,21 @@ This project analyzes hotel booking data and builds a **hybrid recommendation en
 ![Screenshot 2025-07-06 141332](https://github.com/user-attachments/assets/fb071ad7-d855-4ef7-bb1f-69831d6b8c73)
 
 
+6.******************************************How model is working POC:*************************************************************************************
+
+i had created streamlit app to show demo how recommendations is working .
+
+![Screenshot 2025-07-06 163315](https://github.com/user-attachments/assets/ddcacab8-cdfc-44df-a6ea-c02cb54b1083)
+
+![Screenshot 2025-07-06 163338](https://github.com/user-attachments/assets/7cf920ac-0746-4f45-9d3f-1d54554c4564)
+
+![Screenshot 2025-07-06 163349](https://github.com/user-attachments/assets/0227875a-d619-402f-b3bc-c2929afa243e)
+
+![Screenshot 2025-07-06 163411](https://github.com/user-attachments/assets/af0f421e-8af9-4c9f-b535-6363b67bd14e)
+
+
+
+
+
+
 
